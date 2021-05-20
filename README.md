@@ -16,6 +16,6 @@ The `copland` argument set the Copland ASCII logo
 
 </details> 
 
-
+## Downloads
 Download: https://github.com/SegoCode/ScreenFetchWin/releases/ 
 
